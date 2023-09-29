@@ -1,0 +1,9 @@
+﻿TEST_CARX/UserSettings
+*.vsconfig
+*.csproj
+*.sln
+TEST_CARX/obj
+TEST_CARX/Library
+TEST_CARX/Logs
+TEST_CARX/.vscode
+TEST_CARX/.vs
